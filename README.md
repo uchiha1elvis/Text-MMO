@@ -1,1 +1,1 @@
-# Text-MMO
+This bot only tags for now
