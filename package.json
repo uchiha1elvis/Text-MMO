@@ -1,6 +1,14 @@
 {
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp bot for tagging in group chats",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Elvis",
+  "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "^7.0.0-rc.9",
-    "qrcode-terminal": "^0.12.0"
+    "@whiskeysockets/baileys": "^6.6.5"
   }
 }
